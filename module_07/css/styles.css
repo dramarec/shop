@@ -1,0 +1,18 @@
+.super-heading{
+    color: magenta;
+    background-color: gray; 
+}
+
+.big-text {
+    font-size: 60px;
+    font-weight: 800;
+}
+
+.green{
+    color: green
+}
+
+h1{
+    /* text-decoration: underline;
+    background-color: red; */
+}
